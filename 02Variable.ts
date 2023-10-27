@@ -5,4 +5,12 @@ console.log(greetings)
 let myNumber:number=36472.35
 //boolean
 let isloggedIn:boolean=true
+// any
+ let name:string
+ function myname(){
+     return "Samanvith"
+ }
+ name=myname()
+
+ 
  export {}

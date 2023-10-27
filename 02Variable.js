@@ -7,3 +7,9 @@ console.log(greetings);
 var myNumber = 36472.35;
 //boolean
 var isloggedIn = true;
+// any
+var name;
+function myname() {
+    return "Samanvith";
+}
+name = myname();
